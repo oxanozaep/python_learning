@@ -1,2 +1,2 @@
-# pandas_learning
-Notebooks and data to learn how to use the pandas library in jupyter notebooks
+# python_learning
+Notebooks and data to learn/teach how to program in Python and to use the pandas library, using Jupyter Notebooks
